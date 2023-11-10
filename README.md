@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Currently learning gameprogramming at The Game Assembly Malmö, Sweden.
+###🌱 Currently learning gameprogramming at The Game Assembly Malmö, Sweden.
 😄 I like FPS games and Open World games.
 
 <!--
